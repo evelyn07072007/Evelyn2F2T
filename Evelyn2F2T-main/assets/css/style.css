@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+@media screen and (max-width:300px){
+    
+}
+@import url(reset.css);
+body{
+    background-color: var(aquamarine);
+}
