@@ -1,0 +1,11 @@
+@import url(reset.css);
+@import url(header.css);
+
+
+:root{
+--branco:#FFFFFF
+--cor-de-fundo: #ebecce
+--laranja: #EB9B00;
+--azul-degrade:linear-gradient(97 .56deg,#002f52 35.49%, #)
+
+}
